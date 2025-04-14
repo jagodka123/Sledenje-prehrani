@@ -46,3 +46,52 @@ Spletna stran lahko omogoči integracijo z napravami, kot so pametne ure, tehtni
 Na podlagi prehranskih načrtov uporabnika spletna stran lahko pripravi nakupovalni seznam z vsemi potrebnimi sestavinami.
 
 Seznam je lahko avtomatsko poslan v najbližjo trgovino, kjer uporabnik preprosto naroči potrebščine, ali pa poveže s spletnimi trgovinami.
+
+VIRI PRIHODKOV
+1. Premium članstvo (naročnina)
+Model: Freemium – osnovna različica je brezplačna, za dodatne funkcije plačljivo članstvo.
+Cena: npr. 3–7 €/mesec
+Vključuje lahko:
+Napredna analiza nutrientov
+Osebno prilagojen prehranski in vadbeni načrt
+Ekskluziven dostop do receptov, video vsebin, izzivov
+Povezava z napravami (pametne ure, tehtnice...)
+Možnost klepeta s prehranskim strokovnjakom
+ Stabilen vir mesečnih prihodkov (recurring revenue).
+
+2. Provizije od partnerskih trgovin in spletnih nakupov (affiliate)
+Partnerji:
+Zdrava prehranska dopolnila (npr. Proteini.si, Malinca…)
+Supermarketi ali spletne trgovine (npr. Mercator, Lidl, Spar)
+Domači proizvajalci zdrave prehrane
+
+Model:
+Uporabnik klikne ali kupi preko tvoje platforme → ti prejmeš provizijo (5–15 %)
+ Pametni nakupovalni seznam lahko predlaga izdelke, ki so affiliate povezani.
+ Oglasi 
+Google AdSense ali oglaševanje preko specializiranih mrež
+ Priporočljivo samo v brezplačni različici – premium naj bo brez oglasov.
+ 
+4. Sponzorstva in partnerstva z blagovnimi znamkami
+Zdrava živila, prehranska dopolnila, fitnes oprema, aplikacije
+Gaming kavarne in trgovine, če želiš ohraniti gamer-friendly noto
+
+ 5. Plačljive delavnice, programi in e-knjige
+Npr. 4-tedenski program "Zdrava prehrana za gamerje"
+Delavnica z nutricionistom: 9,99 €
+E-knjiga z recepti ali vodičem za hujšanje: 4,99–14,99 €
+
+ 6. Prilagojeni prehranski coaching (1:1 ali skupinski)
+Če imaš strokovnjaka za prehrano v ekipi ali partnersko sodelovanje:
+Individualno svetovanje: 30–60 €/ura
+Skupinski coaching: 10–20 €/osebo/srečanje
+
+7. Provizije od organiziranih izzivov ali turnirjev (če ohraniš gamifikacijo)
+Npr. "30-dnevni fit izziv" z nagradami
+Prijavnina 5 €, ti obdržiš 10–20 % za organizacijo in promocijo
+
+9. Licenciranje ali prodaja tehnologije (B2B model)
+Svojo tehnologijo lahko ponudiš tudi:
+Fitnes centrom
+Nutricionistom (kot orodje za njihove stranke)
+Šolam in športnim klubom
